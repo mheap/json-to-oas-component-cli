@@ -1,5 +1,11 @@
 This tool reads JSON on stdin and generates Open API Spec components based on the data types it finds. It's very basic at the moment, but it's a great starting point to start modifying by hand
 
+## Installation
+
+```bash
+npm install -f json-to-oas-component-cli
+```
+
 ## Usage
 
 ```bash
