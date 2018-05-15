@@ -9,7 +9,7 @@ npm install -f json-to-oas-component-cli
 ## Usage
 
 ```bash
-$ echo '{"foo":"bar", "baz": [{"hello":"world"}]}' | node json-to-oas-component
+$ echo '{"foo":"bar", "baz": [{"hello":"world"}]}' | json-to-oas-component
 ```
 
 ```yaml
