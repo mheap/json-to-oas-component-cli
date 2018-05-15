@@ -1,6 +1,6 @@
 {
   "name": "json-to-oas-component-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Command line tool for json-to-oas-component",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "dependencies": {
     "get-stdin": "^6.0.0",
     "json-to-oas-component": "^1.0.1"
+  },
+  "bin": {
+    "json-to-oas-component": "index.js"
   }
 }
