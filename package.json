@@ -1,0 +1,19 @@
+{
+  "name": "json-to-oas-component-cli",
+  "version": "1.0.0",
+  "description": "Command line tool for json-to-oas-component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "openapi",
+    "oas"
+  ],
+  "author": "Michael Heap <m@michaelheap.com>",
+  "license": "MIT",
+  "dependencies": {
+    "get-stdin": "^6.0.0",
+    "json-to-oas-component": "^1.0.1"
+  }
+}
