@@ -3,7 +3,7 @@ This tool reads JSON on stdin and generates Open API Spec components based on th
 ## Installation
 
 ```bash
-npm install -f json-to-oas-component-cli
+npm install -g json-to-oas-component-cli
 ```
 
 ## Usage
